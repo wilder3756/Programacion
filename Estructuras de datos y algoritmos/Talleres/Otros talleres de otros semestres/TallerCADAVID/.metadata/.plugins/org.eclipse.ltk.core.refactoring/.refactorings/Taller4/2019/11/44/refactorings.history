@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;Contacto.obtenerContacto(...)&apos; to &apos;toStringContacto&apos;&#x0D;&#x0A;- Original project: &apos;Taller4&apos;&#x0D;&#x0A;- Original element: &apos;Contacto.obtenerContacto(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;Contacto.toStringContacto(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;obtenerContacto&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;{Contacto.java[Contacto~obtenerContacto~QString;" name="toStringContacto" references="true" stamp="1572618295197" version="1.0"/>
+</session>

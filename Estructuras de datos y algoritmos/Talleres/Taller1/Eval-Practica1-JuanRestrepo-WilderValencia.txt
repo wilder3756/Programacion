@@ -1,0 +1,14 @@
+
+Implementacion del ADT Pacman                       0.7
+    En el método mover estan creando muchas instancias de Pacman innecesarias. 
+    La idea es que una sola instancia representa el Pacman durante todo el juego.
+    En una aplicación grande esto puede causar problemas de manejo de memoria y
+    exceso de tiempo en el que la aplicacion esta haciendo Gabage Collection.
+
+Implementacion del ADT Laberinto                    1
+
+Implementacion de las pruebas unitarias (Test)      1
+
+Implementacion de la clase Principal                1
+
+
