@@ -1,0 +1,13 @@
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\obj\Debug\TrabajoFinal.csproj.GenerateResource.cache
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\obj\Debug\TrabajoFinal.Principal.resources
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\bin\Debug\TrabajoFinalSeptup.exe.config
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\bin\Debug\TrabajoFinalSeptup.exe.manifest
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\bin\Debug\TrabajoFinalSeptup.application
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\bin\Debug\TrabajoFinalSeptup.exe
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\bin\Debug\TrabajoFinalSeptup.pdb
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\obj\Debug\TrabajoFinalSeptup.Properties.Resources.resources
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\obj\Debug\TrabajoFinalSeptup.exe.manifest
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\obj\Debug\TrabajoFinalSeptup.application
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\obj\Debug\TrabajoFinalSeptup.exe
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\obj\Debug\TrabajoFinalSeptup.pdb
+C:\Users\wilde\OneDrive - UPB\4° Semestre\Procesos Estocasticos\Trabajo2_Wilder_Valencia_Ocampo_000375627\TrabajoFinal\obj\Debug\TrabajoFinal.csprojAssemblyReference.cache
