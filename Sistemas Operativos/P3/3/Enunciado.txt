@@ -1,0 +1,9 @@
+Cree dos procesos que cuyas imágenes serán p1 y p2
+El primer proceso recibirá por línea de comandos tres argumentos así:
+./p1 In Out1 Out2
+./p2 Out1 Out2
+In es el nombre de un archivo de entrada, Out1, y Out2 serán archivos de salida. In es el archivo de la sesión 2 del parcial 2.
+P1 leerá In y almacenará la información en una estructura de datos, luego almacenará la información de In en Out1 pero ordenando cada registro por nombre.
+Una vez la información esté lista P2 leerá la información de Out1 y la escribirá en Out2 pero esta vez ordenada por edad.
+Finalmente p1 imprimirá el resultado (el contenido de Out2) en pantalla.
+Tenga presente que debe indicar o señalar con semáforos cuándo está listo cada archivo para poderlo procesar.

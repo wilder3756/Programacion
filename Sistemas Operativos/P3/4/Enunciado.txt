@@ -1,0 +1,3 @@
+Crear un chat entre dos procesos utilizando memoria compartida, hilos y semáforos. Cada proceso deberá esperar por la entrada de su usuario y al mismo tiempo mostrar los mensajes enviados por el otro usuario (es por ello que se requiere tener dos hilos por proceso).
+
+El intercambio de mensajes se debe realizar utilizando memoria compartida y semáforos para la sincronización.
