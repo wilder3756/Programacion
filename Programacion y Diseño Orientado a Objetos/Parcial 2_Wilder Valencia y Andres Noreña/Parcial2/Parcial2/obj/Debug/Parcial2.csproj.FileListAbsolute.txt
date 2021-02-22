@@ -1,0 +1,28 @@
+C:\Users\HP LAPTOP\source\repos\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\HP LAPTOP\source\repos\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\HP LAPTOP\source\repos\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\HP LAPTOP\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\HP LAPTOP\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\HP LAPTOP\source\repos\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+E:\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+E:\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+E:\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+E:\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+E:\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+E:\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+E:\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial2\Parcial2\obj\Debug\Parcial2.pdb
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 2_Wilder Valencia y Andres Noreña\Parcial2\Parcial2\bin\Debug\Parcial2.exe.config
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 2_Wilder Valencia y Andres Noreña\Parcial2\Parcial2\bin\Debug\Parcial2.exe
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 2_Wilder Valencia y Andres Noreña\Parcial2\Parcial2\bin\Debug\Parcial2.pdb
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 2_Wilder Valencia y Andres Noreña\Parcial2\Parcial2\obj\Debug\Parcial2.csprojAssemblyReference.cache
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 2_Wilder Valencia y Andres Noreña\Parcial2\Parcial2\obj\Debug\Parcial2.csproj.CoreCompileInputs.cache
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 2_Wilder Valencia y Andres Noreña\Parcial2\Parcial2\obj\Debug\Parcial2.exe
+C:\Users\HP LAPTOP\OneDrive - UNIVERSIDAD PONTIFICIA BOLIVARIANA\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 2_Wilder Valencia y Andres Noreña\Parcial2\Parcial2\obj\Debug\Parcial2.pdb

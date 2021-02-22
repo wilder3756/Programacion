@@ -1,0 +1,9 @@
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\obj\Debug\netstandard2.0\Cine.csprojAssemblyReference.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\obj\Debug\netstandard2.0\Cine.csproj.CoreCompileInputs.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\obj\Debug\netstandard2.0\Cine.AssemblyInfoInputs.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\obj\Debug\netstandard2.0\Cine.AssemblyInfo.cs
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\bin\Debug\netstandard2.0\Cine.deps.json
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\bin\Debug\netstandard2.0\Cine.dll
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\bin\Debug\netstandard2.0\Cine.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\obj\Debug\netstandard2.0\Cine.dll
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Cine\Cine\obj\Debug\netstandard2.0\Cine.pdb

@@ -1,0 +1,13 @@
+James Wan,26/02/1977,Malasia
+David F. Sandberg,21/01/1981,Suecia
+Anthony Russo,03/02/1970,USA
+Joe Russo,08/07/1971,USA
+Anna Boden,20/09/1979,USA
+Ryan Fleck,10/07/1976,USA
+Tim Burton,25/08/1958,USA
+Rob Letterman,27/10/1970,USA
+James Kent,23/05/1978,Reino Unido
+Michael Chaves,20/09/1979,USA
+Farhad Safinia,12/02/1975,Iran
+Lars von Trier,30/03/1956,Dinamarca
+Kim Nguyen,23/11/1974,Canada

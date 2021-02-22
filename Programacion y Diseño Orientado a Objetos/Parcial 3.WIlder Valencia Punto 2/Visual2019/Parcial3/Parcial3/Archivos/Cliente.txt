@@ -1,0 +1,20 @@
+120000,Adrian Cano,461067221,4606263,Adrian@gmail.com
+51000,Jorge Aguilar,451187650,4895538,Jorge@gmail.com
+9000,Olivia Santos,467570752,2009915,Olivia@gmail.com
+60000,Marina Iglesias,322968257,8515402,Marina@gmail.com
+200000,Lucía Jimenez,791653134,6258999,Lucía@gmail.com
+5000,Sergio Costa,951819659,7802283,Sergio@gmail.com
+84000,Alexandra Alvarez,82726037,9448695,Alexandra@gmail.com
+35000,Isaac Martinez,275534399,5600729,Isaac@gmail.com
+98000,Jorge Herrera,891727843,5424318,Jorge@gmail.com
+100000,Sandra Martin,913155255,0832777,Sandra@gmail.com
+1000,Ana María Casas,475771152,1157002,Ana@gmail.com
+7000,David Fuentes,249819716,7264558,David@gmail.com
+250000,Lorena Ruiz,78811833,8821173,Lorena@gmail.com
+79500,Juan José Mora,253532063,9153334,Juan @gmail.com
+103000,Julia Perez,404095579,2759436,Julia@gmail.com
+2000,Érik Cortes,611479154,4057390,Érik@gmail.com
+47000,Marco Morales,944457205,3194814,Marco@gmail.com
+696000,Laura Molina,46507259,4145161,Laura@gmail.com
+211000,María Gimenez,61876673,9744235,María@gmail.com
+19000,Jaime Marquez,15014077,6651917,Jaime@gmail.com

@@ -1,0 +1,36 @@
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\bin\Debug\Almacen_Deportivo.exe.config
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\bin\Debug\Almacen_Deportivo.exe
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\bin\Debug\Almacen_Deportivo.pdb
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.csprojAssemblyReference.cache
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Crear_Nuevo_Cliente.resources
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Inicio.resources
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Menu_Principal.resources
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Nueva_Compra.resources
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Properties.Resources.resources
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.csproj.GenerateResource.cache
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.csproj.CoreCompileInputs.cache
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.exe
+C:\Users\AndresFelipeNorenaRa\Downloads\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\bin\Debug\Almacen_Deportivo.exe.config
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\bin\Debug\Almacen_Deportivo.exe
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\bin\Debug\Almacen_Deportivo.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.csprojAssemblyReference.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Crear_Nuevo_Cliente.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Inicio.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Menu_Principal.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Nueva_Compra.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Properties.Resources.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Revisar_Creditos.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.csproj.GenerateResource.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.csproj.CoreCompileInputs.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.exe
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\bin\Debug\Almacen.dll
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\bin\Debug\Almacen.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.csproj.CopyComplete
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Revisar_Inventario.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Generar_Inventario.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Registrar_Vendedor.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Nuevo_Credito.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.PagarCuota.resources
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Proyecto Forms\Almacen_Deportivo\Almacen_Deportivo\obj\Debug\Almacen_Deportivo.Facturar.resources

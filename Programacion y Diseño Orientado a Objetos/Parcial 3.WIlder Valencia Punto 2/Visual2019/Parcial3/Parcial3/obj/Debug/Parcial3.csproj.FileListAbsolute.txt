@@ -1,0 +1,10 @@
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\bin\Debug\Parcial3.exe.config
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\bin\Debug\Parcial3.exe
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\bin\Debug\Parcial3.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\bin\Debug\Cine.dll
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\bin\Debug\Cine.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\obj\Debug\Parcial3.csprojAssemblyReference.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\obj\Debug\Parcial3.csproj.CoreCompileInputs.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\obj\Debug\Parcial3.csproj.CopyComplete
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\obj\Debug\Parcial3.exe
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Ejercicios\Parcial 3. Andres Noreña y WIlder Valencia\Visual2019\Parcial3\Parcial3\obj\Debug\Parcial3.pdb

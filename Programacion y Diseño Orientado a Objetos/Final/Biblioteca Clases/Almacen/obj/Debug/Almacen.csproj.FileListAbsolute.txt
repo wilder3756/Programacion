@@ -1,0 +1,6 @@
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Biblioteca Clases\Almacen\bin\Debug\Almacen.dll
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Biblioteca Clases\Almacen\bin\Debug\Almacen.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Biblioteca Clases\Almacen\obj\Debug\Almacen.csproj.CoreCompileInputs.cache
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Biblioteca Clases\Almacen\obj\Debug\Almacen.dll
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Biblioteca Clases\Almacen\obj\Debug\Almacen.pdb
+C:\Users\wilde\OneDrive - UPB\3° Semestre\Programacion y D.O.O\Final\Biblioteca Clases\Almacen\obj\Debug\Almacen.csprojAssemblyReference.cache

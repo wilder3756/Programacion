@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wilde\\OneDrive - UPB\\3° Semestre\\Programacion y D.O.O\\Ejercicios\\Parcial 3. Andres Noreña y WIlder Valencia\\Visual2019\\Cine\\Cine\\Cine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wilde\\OneDrive - UPB\\3° Semestre\\Programacion y D.O.O\\Ejercicios\\Parcial 3. Andres Noreña y WIlder Valencia\\Visual2019\\Cine\\Cine\\Cine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wilde\\OneDrive - UPB\\3° Semestre\\Programacion y D.O.O\\Ejercicios\\Parcial 3. Andres Noreña y WIlder Valencia\\Visual2019\\Cine\\Cine\\Cine.csproj",
+        "projectName": "Cine",
+        "projectPath": "C:\\Users\\wilde\\OneDrive - UPB\\3° Semestre\\Programacion y D.O.O\\Ejercicios\\Parcial 3. Andres Noreña y WIlder Valencia\\Visual2019\\Cine\\Cine\\Cine.csproj",
+        "packagesPath": "C:\\Users\\wilde\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wilde\\OneDrive - UPB\\3° Semestre\\Programacion y D.O.O\\Ejercicios\\Parcial 3. Andres Noreña y WIlder Valencia\\Visual2019\\Cine\\Cine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wilde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

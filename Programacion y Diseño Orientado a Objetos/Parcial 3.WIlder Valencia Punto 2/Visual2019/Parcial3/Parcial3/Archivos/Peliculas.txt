@@ -1,0 +1,11 @@
+Aquaman,James Wan,143,SuperHeroes,+12
+¡Shazam!,David F. Sandberg,120,SuperHeroes,+12
+Avengers: Endgame, Anthony Russo-Joe Russo,182,SuperHeroes,+12
+Capitana Marvel,Anna Boden-Ryan Fleck,105,SuperHeroes,+12
+Dumbo,Tim Burton,90,Aventura,+7
+POKÉMON DETECTIVE PIKACHU,Rob Letterman,105,Videojuego,+7
+VIVIENDO CON EL ENEMIGO,James Kent,108,Drama,+18
+LA MALDICIÓN DE LA LLORONA,Michael Chaves,95,Terror,+18
+ENTRE LA RAZÓN Y LA LOCURA,Farhad Safinia,124,Thiller,+12
+LA CASA DE JACK,Lars von Trier,152,Crimen,+18
+EL ESCAPE,Kim Nguyen,91,Drama,+18
